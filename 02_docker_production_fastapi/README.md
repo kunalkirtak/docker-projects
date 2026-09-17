@@ -1,9 +1,7 @@
 # Production FastAPI Container
 
 A small, production-oriented FastAPI service, fully containerized with Docker
-and Docker Compose. This is **Project 1 of 3** in a "Phase 10: Docker"
-portfolio series focused on demonstrating real containerization fundamentals
-rather than a toy demo.
+and Docker Compose.
 
 ## Overview
 
