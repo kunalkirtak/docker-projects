@@ -5,8 +5,6 @@ behind a real Retrieval-Augmented Generation (RAG) system is built:
 a FastAPI service, a PostgreSQL metadata store, and a Qdrant vector
 database, all wired together and orchestrated with Docker Compose.
 
-This is **Project 2 of 3** in the "Phase 10: Docker" portfolio series
-(Project 1: [`docker-production-fastapi`](../docker-production-fastapi)).
 
 ## Overview
 
