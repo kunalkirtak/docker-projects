@@ -96,6 +96,8 @@ docker-production-fastapi/
 │
 ├── data/
 │   └── .gitkeep
+|
+├── screenshot/
 │
 ├── Dockerfile
 ├── docker-compose.yml
